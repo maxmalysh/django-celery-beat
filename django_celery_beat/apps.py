@@ -12,4 +12,4 @@ class BeatConfig(AppConfig):
 
     name = 'django_celery_beat'
     label = 'django_celery_beat'
-    verbose_name = _('Periodic Tasks')
+    verbose_name = _('Celery Periodic Tasks')
